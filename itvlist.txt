@@ -1,4 +1,5 @@
 央视频道,#genre#
+松视3,http://z3.ubtvfans.com/live/rx3/404/617643fef33ced7281eb86ccb7aa95b9/index.m3u8
 CCTV1,http://61.136.172.236:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://36.136.77.71:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
 CCTV1,http://36.136.77.71:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
