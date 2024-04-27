@@ -1,0 +1,19 @@
+极致播放器专用源
+发布频道：https://t.me/jizhi111
+交流讨论：https://t.me/jizhi222
+
+Js=jizhi
+
+TVB翡翠台,http://?s=ouhau&id=653e4c02000ea0440c8c63fd3e5d709d
+TVB翡翠台 H.265,http://?s=ouhau&id=653e4c6d000965ef0c8e049f4be34103
+TVB J2,http://?s=ouhau&id=653e4cda0007743f0c8fade86d132b26
+TVB J2 H.265,http://?s=ouhau&id=653e4d3e000b344f0c91357e73163f82
+TVB无线新闻,http://?s=ouhau&id=653e4703000daead0c78dfb07723484e
+TVB无线新闻 H.265,http://?s=ouhau&id=653e4818000b73240c7d19181340415e
+TVB财体资讯,http://?s=ouhau&id=5ffbee4900066c0ddf0b8b84423c06f3
+TVB财体资讯 H.265,http://?s=ouhau&id=611d989d0005244a4a7f24d111282ffb
+TVB明珠,http://?s=ouhau&id=611d99f3000116024a845bb9627404c9
+TVB明珠 H.265,http://?s=ouhau&id=602f1ba9000814efa6f2970333d309d9
+
+
+完整列表请自行获取
