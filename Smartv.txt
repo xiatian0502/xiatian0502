@@ -1,7 +1,7 @@
-RTHK32,http://192.168.0.89:5678/Smartv.php?id=rhk32_twn
-RTHK31,http://192.168.0.89:5678/Smartv1.php?id=rhk31_twn
-凤凰卫视,http://192.168.0.89:5678/Smart0.php?id=phoenixtv_hd
-无线财经资讯,http://192.168.0.89:5678/Smart0http.php?id=tvbcaijing_twn
+RTHK32,http://192.168.0.89:5678/Smart3.php?id=rhk32_twn
+RTHK31,http://192.168.0.89:5678/Smart3.php?id=rhk31_twn
+凤凰卫视,http://192.168.0.89:5678/Smart4.php?id=phoenixtv_hd
+无线财经资讯,http://192.168.0.89:5678/Smart4.php?id=tvbcaijing_twn
 VIUTV1,http://192.168.0.89:5678/Smart89.php?id=viu1_twn
 无线新闻,http://192.168.0.89:5678/Smartv89http.php?id=inews_twn
 龙华戏剧,http://192.168.0.89:5678/Smartk.php?id=lunghuaxiju_twn
