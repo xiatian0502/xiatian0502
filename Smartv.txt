@@ -1,0 +1,267 @@
+js=smart
+RTHK32,http://?id=?id=rhk32_twn
+RTHK31,http://?id=?id=rhk31_twn
+凤凰卫视,http://?id=?id=phoenixtv_hd
+无线财经资讯,http://?id=?id=tvbcaijing_twn
+VIUTV1,http://?id=?id=viu1_twn
+无线新闻,http://?id=?id=inews_twn
+龙华戏剧,http://?id=?id=lunghuaxiju_twn
+龙华偶像,http://?id=?id=lunghuaidol_twn
+龙华卡通,http://?id=?id=jingtiancartoon_twn
+非凡新闻,http://?id=?id=feifannews_twn
+美亚电影,http://?id=?id=meiyamovie_twn
+Arirang,http://?id=?id=arirang_twn
+好莱坞电影,http://?id=?id=hollywoodmovies_twn
+爱尔达体育2,http://?id=?id=eltasport2_twn
+爱尔达体育1,http://?id=?id=eltasport_twn
+民视新闻,http://?id=?id=ftvnew_taiwan
+民视台湾,http://?id=?id=ftvtaiwan_twn
+民视,http://?id=?id=ftvhd_taiwan
+年代新闻,http://?id=?id=niandainews_twn
+大爱1,http://?id=?id=daai_twn
+博斯高球2,http://?id=?id=bosigolf2_twn
+博斯运动2,http://?id=?id=bosisport2_twn
+博斯运动1,http://?id=?id=bosisport1_twn
+博斯网球,http://?id=?id=bositennis_twn
+华视,http://?id=?id=ctshd_twn
+公视,http://?id=?id=ctv_taiwan
+八大综合,http://?id=?id=badazhonghe
+中视新闻,http://?id=?id=zhongshinews_twn
+中视,http://?id=?id=zhongshihd_twn
+中天娱乐,http://?id=?id=ctient
+中天亚洲,http://?id=?id=ctiasia_twn
+东森超视,http://?id=?id=ettvsuper
+东森戏剧,http://?id=?id=ettvdrama
+三立综合,http://?id=?id=sanlizhonghe
+三立戏剧,http://?id=?id=sanlixiju_twn
+东森电影,http://?id=?id=ettvmovie
+东森综合,http://?id=?id=ettvzhonghe
+中天综合,http://?id=?id=ctizhonghe
+八大综合,http://?id=?id=badazhonghe
+八大戏剧,http://?id=?id=badadrama
+八大第一,http://?id=?id=badafirst
+小太阳,http://?id=?id=Xiaotaiyang
+靖天卡通,http://?id=?id=jingtiancartoon_twn
+靖天国际,http://?id=?id=jingtianintl_twn
+TVBS News,http://?id=?id=tvbs_n
+TVBS,http://?id=?id=tvbs
+EYETV戏剧,http://?id=?id=eyetvxiju_twn
+EYETV旅游,http://?id=?id=eyetvtravel_twn
+TVBS欢乐,http://?id=?id=tvbshuanle_twn
+Zee TV HD,http://?id=?id=Zeetvhd
+Warner TV,http://?id=?id=WarnerTV
+Viu6,http://?id=?id=viusix_twn
+Vasantham,http://?id=?id=Vasantham
+TvN,http://?id=?id=TVN
+True Premium 2 HD,http://?id=?id=truepre2_pat
+True Premium 1 HD,http://?id=?id=truepre1_pat
+Transtv,http://?id=?id=Transtv
+Trans 7,http://?id=?id=Trans7_eko
+Tnn24,http://?id=?id=tnn24_pat
+Thrill,http://?id=?id=Thrill
+Tawaf TV,http://?id=?id=TawafTV
+TVRI National,http://?id=?id=TVRI
+TVMU,http://?id=?id=TVMU_eko
+TV9,http://?id=?id=TV9
+TV9 Indonesia,http://?id=?id=TV9_eko
+TV8,http://?id=?id=TV8
+TV3,http://?id=?id=TV3
+TV3 backup,http://?id=?id=TV3_backup
+TV2,http://?id=?id=TV2
+TV1,http://?id=?id=TV1
+TPTV,http://?id=?id=tptv_pat
+TLC,http://?id=?id=Tlc
+Suria,http://?id=?id=Suria
+体育3,http://?id=?id=Assp3
+体育2,http://?id=?id=Assp2
+Sunnah HD,http://?id=?id=sunnah_mido
+Sun Music,http://?id=?id=sunmusic_raj
+Star Vijay,http://?id=?id=Starvijay
+Star Vijay India,http://?id=?id=starvijay_raj
+Sony Six HD,http://?id=?id=sonysix_raj
+Sony HD,http://?id=?id=SetOne
+Skynews,http://?id=?id=skynews_antik
+SCTV,http://?id=?id=Sctv
+SCM,http://?id=?id=Weishimovie
+RTM Sports HD,http://?id=?id=Rtmsport
+RCTI,http://?id=?id=Rcti
+Quran HD,http://?id=?id=quran_mido
+Prima,http://?id=?id=Prima
+Pick TV,http://?id=?id=picktv_antik
+PPTV Thailand1,http://?id=?id=pptv_pat
+One,http://?id=?id=One
+Oasis,http://?id=?id=Oasis
+Nickelodeon,http://?id=?id=Nickelodeon
+Nick Jr,http://?id=?id=Nickjr
+News 18 Tamil,http://?id=?id=news18tamil_raj
+New,http://?id=?id=new_pat
+Net TV,http://?id=?id=NetTV
+Nation,http://?id=?id=nation_pat
+国家地理,http://?id=?id=natgeohd_twn
+地理野生动物,http://?id=?id=natgeowildtamil_raj
+野生动物,http://?id=?id=natgeowild_twn
+地理野生动物,http://?id=?id=Natgeowild
+NatGeo Tamil,http://?id=?id=natgeotamil_raj
+国家地理,http://?id=?id=Natgeo
+More4,http://?id=?id=more4_antik
+Momo TV,http://?id=?id=momo1_twn
+MiaoMi,http://?id=?id=MiaoMi
+Metro TV,http://?id=?id=metrotv_eko
+Makkal TV,http://?id=?id=Makkaltv
+AXNTaiwan,http://?id=?id=axn_twn
+动物星球,http://?id=?id=AnimalPlanet
+动物星球1,http://?id=?id=animalplanet_twn
+Asianet,http://?id=?id=asianet_raj
+Awani,http://?id=?id=Awani
+AxnHD,http://?id=?id=Axn
+Cinemax,http://?id=?id=cinemax_twn
+CNBC,http://?id=?id=cnbc_twn
+CelestialMoviesHD,http://?id=?id=Celestialindo
+Channel3Thailand,http://?id=?id=ch3_pat
+DiscoveryAsia,http://?id=?id=discoverytwn_twn
+DiscoveryHD,http://?id=?id=discoveryhd_twn
+DiscoveryKidsTamil,http://?id=?id=discoverykidtamil_raj
+DiscoveryTurbo,http://?id=?id=discoveryturbo_twn
+DiscoveryWorldTamil,http://?id=?id=discoveryworldtam_raj
+BBC1,http://?id=?id=bbc1_antik
+BBC2,http://?id=?id=bbc2_antik
+BBCEarthHD,http://?id=?id=bbcearth_twn
+BBCEarthTamil,http://?id=?id=bbcearthtam_raj
+BBCWorldNews,http://?id=?id=bbcnews_twn
+BTESPN,http://?id=?id=btespn
+BTSports1,http://?id=?id=beeone
+BTSports3,http://?id=?id=beethree
+BloombergNews,http://?id=?id=bloomberg_twn
+Boomerang,http://?id=?id=Boomerang
+CBBC,http://?id=?id=cbbc_antik
+CBSHD,http://?id=?id=cbshd_glo
+CBSNHD,http://?id=?id=cbsn_glo
+Muslim TV,http://?id=?id=MuslimTV
+itv1,http://?id=?id=itv1_antik
+tvNMovie,http://?id=?id=Tvnmovie
+TVN,http://?id=?id=TVN
+RTHK32,http://?id=?id=rhk32_twn
+RTHK31,http://?id=?id=rhk31_twn
+J2,http://?id=?id=j2_twn
+无线财经资讯,http://?id=?id=tvbcaijing_twn
+民视第一,http://?id=?id=lunghuajingdian_twn
+龙华偶像,http://?id=?id=lunghuaidol_twn
+龙华卡通,http://?id=?id=jingtiancartoon_twn
+非凡新闻,http://?id=?id=feifannews_twn
+美食星球,http://?id=?id=foodplanet_twn
+Arirang,http://?id=?id=arirang_twn
+爱尔达体育2,http://?id=?id=eltasport2_twn
+爱尔达体育1,http://?id=?id=eltasport_twn
+民视新闻,http://?id=?id=ftvnew_taiwan
+民视台湾,http://?id=?id=ftvtaiwan_twn
+民视,http://?id=?id=ftvhd_taiwan
+年代新闻,http://?id=?id=niandainews_twn
+好消息 2,http://?id=?id=good2_twn
+大爱1台,http://?id=?id=daai_twn
+博斯高球2,http://?id=?id=bosigolf2_twn
+博斯运动 2,http://?id=?id=bosisport2_twn
+博斯运动 1,http://?id=?id=bosisport1_twn
+博斯网球,http://?id=?id=bositennis_twn
+华视,http://?id=?id=ctshd_twn
+公视,http://?id=?id=ctv_taiwan
+八大综合,http://?id=?id=badazhonghe
+中视新闻,http://?id=?id=zhongshinews_twn
+中视,http://?id=?id=zhongshihd_twn
+中天新闻,http://?id=?id=ctinews
+中天娱乐,http://?id=?id=ctient
+中天亚洲,http://?id=?id=ctiasia_twn
+东森超视,http://?id=?id=ettvsuper
+东森财经新闻,http://?id=?id=ettvcaijing_twn
+东森戏剧,http://?id=?id=ettvdrama
+三立综合,http://?id=?id=sanlizhonghe
+三立戏剧,http://?id=?id=sanlixiju_twn
+东森电影,http://?id=?id=ettvmovie
+东森综合,http://?id=?id=ettvzhonghe
+中天综合,http://?id=?id=ctizhonghe
+八大综合,http://?id=?id=badazhonghe
+八大戏剧,http://?id=?id=badadrama
+八大第一,http://?id=?id=badafirst
+八大第一,http://?id=?id=badafirst
+小太阳,http://?id=?id=Xiaotaiyang
+靖天卡通,http://?id=?id=jingtiancartoon_twn
+靖天国际,http://?id=?id=jingtianintl_twn
+TVBS News,http://?id=?id=tvbs_n
+TVBS,http://?id=?id=tvbs
+EYETV戏剧,http://?id=?id=eyetvxiju_twn
+EYETV旅游,http://?id=?id=eyetvtravel_twn
+TVBS欢乐,http://?id=?id=tvbshuanle_twn
+Viu6,http://?id=?id=viusix_twn
+国家地理,http://?id=?id=natgeohd_twn
+野生动物,http://?id=?id=natgeowild_twn
+Momo TV,http://?id=?id=momo1_twn
+亚洲旅游,http://?id=?id=asiatravel_twn
+AXNTaiwan,http://?id=?id=axn_twn
+动物星球1,http://?id=?id=animalplanet_twn
+CINEMAX,http://?id=?id=cinemax_twn
+CNBC,http://?id=?id=cnbc_twn
+DiscoveryAsia,http://?id=?id=discoverytwn_twn
+DiscoveryHD,http://?id=?id=discoveryhd_twn
+DiscoveryTurbo,http://?id=?id=discoveryturbo_twn
+BBCEarthHD,http://?id=?id=bbcearth_twn
+BBCWorldNews,http://?id=?id=bbcnews_twn
+BloombergNews,http://?id=?id=bloomberg_twn
+CBSHD,http://?id=?id=cbshd_glo
+CBSNHD,http://?id=?id=cbsn_glo
+ABCNews,http://?id=?id=abcnews_glo
+BabyTV,http://?id=?id=babytv_twn
+CBSNews,http://?id=?id=cbsn_glo
+CNN,http://?id=?id=cnn_twn
+DiscoveryAsia,http://?id=?id=discoverytwn_twn
+ELEVEN体育1,http://?id=?id=golfchannel_twn
+EYETV戏剧,http://?id=?id=eyetvxiju_twn
+FoxNews,http://?id=?id=foxnews_twn
+GOODTV真理,http://?id=?id=good2_twn
+HBO家庭,http://?id=?id=fyi_twn
+RTHK32,http://?id=?id=rhk32_twn
+TVBS新闻,http://?id=?id=tvbs_n
+TVBS欢乐,http://?id=?id=tvbshuanle_twn
+WWE,http://?id=?id=wwe_twn
+三立台湾,http://?id=?id=sanlitaiwan
+三立戏剧,http://?id=?id=sanlixiju_twn
+三立综合,http://?id=?id=sanlizhonghe
+中天亚洲,http://?id=?id=ctiasia_twn
+中天娱乐,http://?id=?id=ctient
+中视新闻,http://?id=?id=zhongshinews_twn
+中视新闻,http://?id=?id=zhongshinews_twn
+中视经典,http://?id=?id=zhongshi_twn
+亚洲旅游,http://?id=?id=asiatravel_twn
+八大戏剧,http://?id=?id=badadrama
+八大第一,http://?id=?id=badafirst
+八大综合,http://?id=?id=badazhonghe
+公视,http://?id=?id=ctv_taiwan
+动物星球,http://?id=?id=animalplanet_twn
+博斯网球,http://?id=?id=bositennis_twn
+博斯运动2,http://?id=?id=bosisport2_twn
+博斯高球1,http://?id=?id=bosigolf1_twn
+博斯高球1,http://?id=?id=bosigolf1_twn
+好莱坞电影,http://?id=?id=hollywoodmovies_twn
+爱尔达体育1,http://?id=?id=eltasport2_twn
+爱尔达体育2,http://?id=?id=eltasport2_twn
+探索亚洲,http://?id=?id=discoverytwn_twn
+探索动力,http://?id=?id=discoveryturbo_twn
+星卫电影,http://?id=?id=xingwei_movie
+时尚,http://?id=?id=fashiontv_twn
+东森财经,http://?id=?id=ettvcaijing_twn
+东森超视,http://?id=?id=ettvsuper
+民视新闻,http://?id=?id=ftvnew_taiwan
+美亚电影,http://?id=?id=meiyamovie_twn
+靖天卡通,http://?id=?id=jingtiancartoon_twn
+非凡新闻,http://?id=?id=feifannews_twn
+龙华戏剧,http://?id=?id=lunghuaxiju_twn
+Awani,http://?id=?id=Awani
+BBC,http://?id=?id=bbc1_antik
+BBC1,http://?id=?id=bbc1_antik
+BBC2,http://?id=?id=bbc2_antik
+BBC WORLD NEWS,http://?id=?id=bbcnews_twn
+BTSports4,http://?id=?id=btespn
+CNA亚洲新闻,http://?id=?id=cna
+Euronews,http://?id=?id=euronews_antik
+TLC旅游生活,http://?id=?id=tlc_twn
+新加坡8,http://?id=?id=TV8
+翡翠,http://?id=?id=jade_twn
+翡翠,http://?id=?id=Wlt
