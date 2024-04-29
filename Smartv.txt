@@ -1,4 +1,4 @@
-RTHK32,http://192.168.0.89:5678/Smart3.php?id=rhk32_twn
+RTHK32,http://193.24.209.91/Smart.php?id=jade_twn
 RTHK31,http://192.168.0.89:5678/Smart3.php?id=rhk31_twn
 凤凰卫视,http://192.168.0.89:5678/Smart4.php?id=phoenixtv_hd
 无线财经资讯,http://192.168.0.89:5678/Smart4.php?id=tvbcaijing_twn
