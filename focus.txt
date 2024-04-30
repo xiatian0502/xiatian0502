@@ -1,4 +1,4 @@
-Js=https://raw.githubusercontent.com/xiatian0502/vv/main/jizhi.js
+
 
 国内频道,#genre#
 CCTV-1 ,http://?s=focus&id=64260c74000c73e9edfa2a0e354364a8
