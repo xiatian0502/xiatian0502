@@ -158,7 +158,8 @@ BBC World News,http://?id=bbcnews_twn
 BBC World News,http://?id=Bbcnews
 Bloomberg News,http://?id=bloomberg_twn
 Al-Jazeera,http://?id=aljazeera_twn
-SmartTV-兒童,#genre#
+
+儿童,#genre#
 Baby TV Eng,http://?id=Babytv
 CBeebies,http://?id=Cbeebies
 Kids TV,http://?id=KidsTV
@@ -214,7 +215,8 @@ Astrol Kplus,http://?id=Kplus
 Rock Actions,http://?id=Rockaction
 Rock Entertainment,http://?id=Rockentertain
 Sony Pix HD,http://?id=sonypix_mega
-SmartTV-紀錄,#genre#
+
+纪录,#genre#
 Natgeo_HD,http://?id=natgeohd_twn
 NatGeo_Wild HD,http://?id=natgeowild_twn
 Animal_Planet,http://?id=animalplanet_twn
@@ -382,7 +384,8 @@ Al-Jazeera,http://?id=aljazeera_twn
 Rock Entertainment,http://?id=Rockentertain
 Showcase,http://?id=Showcase_mega
 BolaArena 2,http://?id=Bolaarena2
-SmartTV-Singapore,#genre#
+
+新加坡,#genre#
 Channel 5,http://?id=Channel5HD
 Ch 5 backup,http://?id=Ch5_mega
 Channel 8,http://?id=Channel8HD
@@ -395,7 +398,8 @@ Vasantham,http://?id=Vasantham
 Vasantham backup,http://?id=Vasantham_mega
 CNA,http://?id=cna
 CNA backup,http://?id=cna_twn
-SmartTV-Indonesia,#genre#
+
+印度尼西亚,#genre#
 TVRI National,http://?id=TVRI
 RCTI,http://?id=Rcti
 Kompass TV,http://?id=Kompass
