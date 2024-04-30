@@ -1,4 +1,4 @@
-Js=jizhi
+Js=https://raw.githubusercontent.com/xiatian0502/vv/main/jizhi
 
 国内频道,#genre#
 CCTV综合,http://?s=ouhau&id=62c200310006b7b2a8c4dade0fd02231
