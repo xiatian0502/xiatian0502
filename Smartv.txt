@@ -505,7 +505,8 @@ Tnn24,http://?id=tnn24_pat
 Nbt,http://?id=nbt_pat
 New,http://?id=new_pat
 TPTV,http://?id=tptv_pat
-SmartTV-英國,#genre#
+
+英国,#genre#
 BBC 1,http://?id=bbc1_antik
 BBC 2,http://?id=bbc2_antik
 CBBC,http://?id=cbbc_antik
@@ -567,7 +568,8 @@ Danang TV1 HD,http://?id=viet_danangtv1
 Danang TV2 HD,http://?id=viet_danangtv2
 HBTV HD,http://?id=viet_hbtv
 PTTH 1,http://?id=viet_ptth1
-SmartTV-韓國,#genre#
+
+韩国,#genre#
 Arirang HD,http://?id=arirang_korea
 Yonhap News,http://?id=yonhapnews_korea
 CBS,http://?id=cbs_korea
