@@ -1,20 +1,20 @@
 #EXTM3U
 #EXTINF:-1,tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" group-title="其他",民視第一台
-http://1192.168.0.113:5000/4gtv/1
+http://192.168.0.113:5000/4gtv/1
 #EXTINF:-1,tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" group-title="其他",民視台灣台
 http://1192.168.0.113:5000/4gtv/2
 #EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="其他",民視
-http://1192.168.0.113:5000/4gtv/3
+http://192.168.0.113:5000/4gtv/3
 #EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="其他",中視
-http://1192.168.0.113:5000/4gtv/4
+http://192.168.0.113:5000/4gtv/4
 #EXTINF:-1,tvg-id="華視" tvg-name="華視" tvg-logo="https://epg.112114.xyz/logo/華視.png" group-title="其他",華視
-http://1192.168.0.113:5000/4gtv/6
+http://192.168.0.113:5000/4gtv/6
 #EXTINF:-1,tvg-id="公視戲劇" tvg-name="公視戲劇" tvg-logo="https://epg.112114.xyz/logo/公視戲劇.png" group-title="其他",公視戲劇
-http://1192.168.0.113:5000/4gtv/7
+http://192.168.0.113:5000/4gtv/7
 #EXTINF:-1,tvg-id="好消息 2 台" tvg-name="好消息 2 台" tvg-logo="https://epg.112114.xyz/logo/好消息2台.png" group-title="其他",好消息 2 台
-http://1192.168.0.113:5000/4gtv/8
+http://192.168.0.113:5000/4gtv/8
 #EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" group-title="其他",好消息
-http://1192.168.0.113:5000/4gtv/9
+http://192.168.0.113:5000/4gtv/9
 #EXTINF:-1,tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://epg.112114.xyz/logo/達文西頻道.png" group-title="其他",達文西頻道
 http://1192.168.0.113:5000/4gtv/11
 #EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="其他",靖天卡通台
