@@ -6,4 +6,6 @@ https://raw.githubusercontent.com/xiatian0502/vv/main/4G113.m3u
 
 https://raw.githubusercontent.com/xiatian0502/vv/main/419.txt
 
+https://raw.githubusercontent.com/xiatian0502/vv/main/modeTV.txt
+
  
