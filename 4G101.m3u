@@ -3,6 +3,12 @@
 http://192.168.0.101:4999/4gtv/1
 #EXTINF:-1,tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" group-title="综合频道",民視台灣台
 http://192.168.0.101:4999/4gtv/2
+#EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="新闻频道",中天新聞台
+http://192.168.0.101:4999/4gtv/30
+#EXTINF:-1,tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://epg.112114.xyz/logo/博斯無限台.png" group-title="体育运动",博斯無限台
+http://192.168.0.101:4999/4gtv/51
+#EXTINF:-1,tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇台.png" group-title="影剧精选",龍華戲劇台
+http://192.168.0.101:4999/4gtv/23
 #EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="综合频道",民視
 http://192.168.0.101:4999/4gtv/3
 #EXTINF:-1,tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.112114.xyz/logo/中視.png" group-title="综合频道",中視
@@ -27,16 +33,12 @@ http://192.168.0.101:4999/4gtv/19
 http://192.168.0.101:4999/4gtv/21
 #EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="综合频道",靖天日本台
 http://192.168.0.101:4999/4gtv/22
-#EXTINF:-1,tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇台.png" group-title="影剧精选",龍華戲劇台
-http://192.168.0.101:4999/4gtv/23
 #EXTINF:-1,tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://epg.112114.xyz/logo/民視影劇台.png" group-title="影剧精选",民視影劇台
 http://192.168.0.101:4999/4gtv/24
 #EXTINF:-1,tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://epg.112114.xyz/logo/采昌影劇台.png" group-title="影剧精选",采昌影劇台
 http://192.168.0.101:4999/4gtv/25
 #EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://epg.112114.xyz/logo/龍華日韓台.png" group-title="影剧精选",龍華日韓台
 http://192.168.0.101:4999/4gtv/28
-#EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="新闻频道",中天新聞台
-http://192.168.0.101:4999/4gtv/30
 #EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/民視新聞台.png" group-title="新闻频道",民視新聞台
 http://192.168.0.101:4999/4gtv/31
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="新闻频道",中視新聞
@@ -57,8 +59,6 @@ http://192.168.0.101:4999/4gtv/42
 http://192.168.0.101:4999/4gtv/48
 #EXTINF:-1,tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://epg.112114.xyz/logo/博斯運動一台.png" group-title="体育运动",博斯運動一台
 http://192.168.0.101:4999/4gtv/50
-#EXTINF:-1,tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://epg.112114.xyz/logo/博斯無限台.png" group-title="体育运动",博斯無限台
-http://192.168.0.101:4999/4gtv/51
 #EXTINF:-1,tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://epg.112114.xyz/logo/博斯網球台.png" group-title="体育运动",博斯網球台
 http://192.168.0.101:4999/4gtv/52
 #EXTINF:-1,tvg-id="TRACESPORTS" tvg-name="TRACESPORTS" tvg-logo="https://epg.112114.xyz/logo/TRACESPORTS.png" group-title="体育运动",TRACE Sport Stars
