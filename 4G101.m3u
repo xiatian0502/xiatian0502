@@ -15,7 +15,7 @@ http://192.168.0.101:4999/4gtv/7
 http://192.168.0.101:4999/4gtv/8
 #EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" group-title="综合频道",好消息
 http://192.168.0.101:4999/4gtv/9
-#EXTINF:-1,tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://epg.112114.xyz/logo/達文西頻道.png" group-title="综合频道",達文西頻道
+#EXTINF:-1,tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://epg.112114.xyz/logo/達文西頻道.png" group-title="儿童频道",達文西頻道
 http://192.168.0.101:4999/4gtv/11
 #EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="儿童频道",靖天卡通台
 http://192.168.0.101:4999/4gtv/15
@@ -117,7 +117,7 @@ http://192.168.0.101:4999/4gtv/123
 http://192.168.0.101:4999/4gtv/124
 #EXTINF:-1,tvg-id="Love Nature" tvg-name="Love Nature" tvg-logo="https://epg.112114.xyz/logo/LOVENATURE.png" group-title="综艺娱乐",Love Nature
 http://192.168.0.101:4999/4gtv/139
-#EXTINF:-1,tvg-id="車迷 TV" tvg-name="車迷 TV" tvg-logo="https://epg.112114.xyz/logo/車迷TV.png" group-title="综艺娱乐",車迷 TV
+#EXTINF:-1,tvg-id="車迷 TV" tvg-name="車迷 TV" tvg-logo="https://epg.112114.xyz/logo/車迷TV.png" group-title="体育运动",車迷 TV
 http://192.168.0.101:4999/4gtv/160
 #EXTINF:-1,tvg-id="幸福空間居家台" tvg-name="幸福空間居家台" tvg-logo="https://epg.112114.xyz/logo/幸福空間居家台.png" group-title="综艺娱乐",幸福空間居家台
 http://192.168.0.101:4999/4gtv/168
@@ -143,7 +143,7 @@ http://192.168.0.101:4999/4gtv/178
 http://192.168.0.101:4999/4gtv/179
 #EXTINF:-1,tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.112114.xyz/logo/ROCKACTION.png" group-title="影剧精选",ROCK Action
 http://192.168.0.101:4999/4gtv/180
-#EXTINF:-1,tvg-id="TechStorm" tvg-name="TechStorm" tvg-logo="https://epg.112114.xyz/logo/TECHSTORM.png" group-title="综艺娱乐",TechStorm
+#EXTINF:-1,tvg-id="TechStorm" tvg-name="TechStorm" tvg-logo="https://epg.112114.xyz/logo/TECHSTORM.png" group-title="体育运动",TechStorm
 http://192.168.0.101:4999/4gtv/181
 #EXTINF:-1,tvg-id="Pet Club TV" tvg-name="Pet Club TV" tvg-logo="https://epg.112114.xyz/logo/PETCLUBTV.png" group-title="综艺娱乐",Pet Club TV
 http://192.168.0.101:4999/4gtv/182
