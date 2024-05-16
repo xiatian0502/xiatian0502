@@ -91,9 +91,9 @@ http://192.168.0.101:4999/4gtv/85
 http://192.168.0.101:4999/4gtv/86
 #EXTINF:-1,tvg-id="靖天資訊台" tvg-name="靖天資訊台" tvg-logo="https://epg.112114.xyz/logo/靖天資訊台.png" group-title="新闻频道",靖天資訊台
 http://192.168.0.101:4999/4gtv/88
-#EXTINF:-1,tvg-id="鳳梨直擊台" tvg-name="鳳梨直擊台" tvg-logo="https://epg.112114.xyz/logo/鳳梨直擊台.png" group-title="综艺娱乐",鳳梨直擊台
+#EXTINF:-1,tvg-id="鳳梨直擊台" tvg-name="鳳梨直擊台" tvg-logo="https://epg.112114.xyz/logo/鳳梨直擊台.png" group-title="其他",鳳梨直擊台
 http://192.168.0.101:4999/4gtv/93
-#EXTINF:-1,tvg-id="香蕉直擊台" tvg-name="香蕉直擊台" tvg-logo="https://epg.112114.xyz/logo/香蕉直擊台.png" group-title="综艺娱乐",香蕉直擊台
+#EXTINF:-1,tvg-id="香蕉直擊台" tvg-name="香蕉直擊台" tvg-logo="https://epg.112114.xyz/logo/香蕉直擊台.png" group-title="其他",香蕉直擊台
 http://192.168.0.101:4999/4gtv/94
 #EXTINF:-1,tvg-id="ELTV" tvg-name="ELTV" tvg-logo="https://epg.112114.xyz/logo/ELTV.png" group-title="儿童频道",ELTV 生活英語台
 http://192.168.0.101:4999/4gtv/106
@@ -267,9 +267,9 @@ http://192.168.0.101:4999/4gtv/286
 http://192.168.0.101:4999/4gtv/287
 #EXTINF:-1,tvg-id="Globetrotter 環遊旅行家" tvg-name="Globetrotter 環遊旅行家" tvg-logo="https://epg.112114.xyz/logo/GLOBETROTTER環遊旅行家.png" group-title="综艺娱乐",Globetrotter 環遊旅行家
 http://192.168.0.101:4999/4gtv/288
-#EXTINF:-1,tvg-id="番茄直擊台" tvg-name="番茄直擊台" tvg-logo="https://epg.112114.xyz/logo/番茄直擊台.png" group-title="综艺娱乐",番茄直擊台
+#EXTINF:-1,tvg-id="番茄直擊台" tvg-name="番茄直擊台" tvg-logo="https://epg.112114.xyz/logo/番茄直擊台.png" group-title="其他",番茄直擊台
 http://192.168.0.101:4999/4gtv/289
-#EXTINF:-1,tvg-id="芭樂直擊台" tvg-name="芭樂直擊台" tvg-logo="https://epg.112114.xyz/logo/芭樂直擊台.png" group-title="综艺娱乐",芭樂直擊台
+#EXTINF:-1,tvg-id="芭樂直擊台" tvg-name="芭樂直擊台" tvg-logo="https://epg.112114.xyz/logo/芭樂直擊台.png" group-title="其他",芭樂直擊台
 http://192.168.0.101:4999/4gtv/290
 #EXTINF:-1,tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.112114.xyz/logo/TVBS.png" group-title="新闻频道",TVBS 新聞
 http://192.168.0.101:4999/4gtv/291
