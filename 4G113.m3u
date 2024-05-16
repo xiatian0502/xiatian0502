@@ -277,3 +277,7 @@ http://192.168.0.113:4999/4gtv/291
 http://192.168.0.113:4999/4gtv/292
 #EXTINF:-1,tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://epg.112114.xyz/logo/東森財經新聞台.png" group-title="新闻频道",東森財經新聞台
 http://192.168.0.113:4999/4gtv/293
+#EXTINF:-1,tvg-id="松视1台" tvg-name="松视1台" tvg-logo="https://epg.112114.xyz/logo/松视1台.png" group-title="其他",松视1台
+松视1台,https://z88.ubtvfans.com:443/live/rx3/402/2d5f45ef7b7b90e9b47c6963be6d5120/index.m3u8
+#EXTINF:-1,tvg-id="彩虹电影" tvg-name="彩虹电影" tvg-logo="https://epg.112114.xyz/logo/彩虹电影.png" group-title="其他",彩虹电影
+彩虹电影,https://z88.ubtvfans.com/live/rx3/413/f39876dcbac1ca67fd1c1015cfc2af27/index.m3u8
