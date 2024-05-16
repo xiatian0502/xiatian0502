@@ -1,6 +1,16 @@
 #EXTM3U
+#EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="新闻频道",中天新聞台
+http://192.168.0.113:4999/4gtv/30
+#EXTINF:-1,tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://epg.112114.xyz/logo/民視綜藝台.png" group-title="综艺娱乐",民視綜藝台
+http://192.168.0.113:4999/4gtv/16
+#EXTINF:-1,tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://epg.112114.xyz/logo/博斯運動一台.png" group-title="体育运动",博斯運動一台
+http://192.168.0.113:4999/4gtv/50
 #EXTINF:-1,tvg-id="民視第一台" tvg-name="民視第一台" tvg-logo="https://epg.112114.xyz/logo/民視第一台.png" group-title="综合频道",民視第一台
 http://192.168.0.113:4999/4gtv/1
+#EXTINF:-1,tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇台.png" group-title="影剧精选",龍華戲劇台
+http://192.168.0.113:4999/4gtv/23
+#EXTINF:-1,tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://epg.112114.xyz/logo/達文西頻道.png" group-title="儿童频道",達文西頻道
+http://192.168.0.113:4999/4gtv/11
 #EXTINF:-1,tvg-id="民視台灣台" tvg-name="民視台灣台" tvg-logo="https://epg.112114.xyz/logo/民視台灣台.png" group-title="综合频道",民視台灣台
 http://192.168.0.113:4999/4gtv/2
 #EXTINF:-1,tvg-id="民視" tvg-name="民視" tvg-logo="https://epg.112114.xyz/logo/民視.png" group-title="综合频道",民視
@@ -15,28 +25,20 @@ http://192.168.0.113:4999/4gtv/7
 http://192.168.0.113:4999/4gtv/8
 #EXTINF:-1,tvg-id="好消息" tvg-name="好消息" tvg-logo="https://epg.112114.xyz/logo/好消息.png" group-title="综合频道",好消息
 http://192.168.0.113:4999/4gtv/9
-#EXTINF:-1,tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://epg.112114.xyz/logo/達文西頻道.png" group-title="儿童频道",達文西頻道
-http://192.168.0.113:4999/4gtv/11
 #EXTINF:-1,tvg-id="靖天卡通台" tvg-name="靖天卡通台" tvg-logo="https://epg.112114.xyz/logo/靖天卡通台.png" group-title="儿童频道",靖天卡通台
 http://192.168.0.113:4999/4gtv/15
-#EXTINF:-1,tvg-id="民視綜藝台" tvg-name="民視綜藝台" tvg-logo="https://epg.112114.xyz/logo/民視綜藝台.png" group-title="综艺娱乐",民視綜藝台
-http://192.168.0.113:4999/4gtv/16
 #EXTINF:-1,tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://epg.112114.xyz/logo/愛爾達娛樂台.png" group-title="综艺娱乐",愛爾達娛樂台
 http://192.168.0.113:4999/4gtv/19
 #EXTINF:-1,tvg-id="靖天綜合台" tvg-name="靖天綜合台" tvg-logo="https://epg.112114.xyz/logo/靖天綜合台.png" group-title="综合频道",靖天綜合台
 http://192.168.0.113:4999/4gtv/21
 #EXTINF:-1,tvg-id="靖天日本台" tvg-name="靖天日本台" tvg-logo="https://epg.112114.xyz/logo/靖天日本台.png" group-title="综合频道",靖天日本台
 http://192.168.0.113:4999/4gtv/22
-#EXTINF:-1,tvg-id="龍華戲劇台" tvg-name="龍華戲劇台" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇台.png" group-title="影剧精选",龍華戲劇台
-http://192.168.0.113:4999/4gtv/23
 #EXTINF:-1,tvg-id="民視影劇台" tvg-name="民視影劇台" tvg-logo="https://epg.112114.xyz/logo/民視影劇台.png" group-title="影剧精选",民視影劇台
 http://192.168.0.113:4999/4gtv/24
 #EXTINF:-1,tvg-id="采昌影劇台" tvg-name="采昌影劇台" tvg-logo="https://epg.112114.xyz/logo/采昌影劇台.png" group-title="影剧精选",采昌影劇台
 http://192.168.0.113:4999/4gtv/25
 #EXTINF:-1,tvg-id="龍華日韓台" tvg-name="龍華日韓台" tvg-logo="https://epg.112114.xyz/logo/龍華日韓台.png" group-title="影剧精选",龍華日韓台
 http://192.168.0.113:4999/4gtv/28
-#EXTINF:-1,tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.112114.xyz/logo/中天新聞台.png" group-title="新闻频道",中天新聞台
-http://192.168.0.113:4999/4gtv/30
 #EXTINF:-1,tvg-id="民視新聞台" tvg-name="民視新聞台" tvg-logo="https://epg.112114.xyz/logo/民視新聞台.png" group-title="新闻频道",民視新聞台
 http://192.168.0.113:4999/4gtv/31
 #EXTINF:-1,tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.112114.xyz/logo/中視新聞.png" group-title="新闻频道",中視新聞
@@ -55,8 +57,6 @@ http://192.168.0.113:4999/4gtv/40
 http://192.168.0.113:4999/4gtv/42
 #EXTINF:-1,tvg-id="博斯高球台" tvg-name="博斯高球台" tvg-logo="https://epg.112114.xyz/logo/博斯高球台.png" group-title="体育运动",博斯高球台
 http://192.168.0.113:4999/4gtv/48
-#EXTINF:-1,tvg-id="博斯運動一台" tvg-name="博斯運動一台" tvg-logo="https://epg.112114.xyz/logo/博斯運動一台.png" group-title="体育运动",博斯運動一台
-http://192.168.0.113:4999/4gtv/50
 #EXTINF:-1,tvg-id="博斯無限台" tvg-name="博斯無限台" tvg-logo="https://epg.112114.xyz/logo/博斯無限台.png" group-title="体育运动",博斯無限台
 http://192.168.0.113:4999/4gtv/51
 #EXTINF:-1,tvg-id="博斯網球台" tvg-name="博斯網球台" tvg-logo="https://epg.112114.xyz/logo/博斯網球台.png" group-title="体育运动",博斯網球台
