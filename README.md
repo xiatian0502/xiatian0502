@@ -12,4 +12,6 @@ https://raw.githubusercontent.com/xiatian0502/vv/main/anboPHP114.txt
 
 https://raw.githubusercontent.com/xiatian0502/vv/main/litv1.txt
 
+https://raw.githubusercontent.com/xiatian0502/vv/main/smartv114.txt
+
  
