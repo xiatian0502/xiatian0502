@@ -1,4 +1,4 @@
-RTHK32,http://192.168.0.114:6789/smart.php?id=rhk32_twn
+RTHK32,http://192.168.0.114:6789/smart.php?id=ebs2_korea
 RTHK31,http://192.168.0.114:6789/smart.php?id=rhk31_twn
 凤凰卫视,http://192.168.0.114:6789/smart.php?id=phoenixtv_hd
 无线财经资讯,http://192.168.0.114:6789/smart.php?id=tvbcaijing_twn
