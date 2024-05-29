@@ -1,5 +1,5 @@
 cctv6,http://192.168.0.114:6789/1905.php?id=cctv6
 1905a,http://192.168.0.114:6789/1905.php?id=1905a
 1905b,http://192.168.0.114:6789/1905.php?id=1905b
-中天新闻每日必看http://192.168.0.114:6789/youtube.php?id=PLQWMqkNuwweLtrmvmgcEzN2_0EmRzpxzY
+中天新闻每日必看,http://192.168.0.114:6789/youtube.php?id=PLQWMqkNuwweLtrmvmgcEzN2_0EmRzpxzY
 
