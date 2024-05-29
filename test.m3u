@@ -1,3 +1,6 @@
 #EXTM3Un
-#EXTINF:-1,中天每日必看b
+#EXTINF:-1,中天新闻-最即时
 http://192.168.0.114:6789/youtube.php?id=PLQWMqkNuwweLtrmvmgcEzN2_0EmRzpxzY
+#EXTM3Un
+#EXTINF:-1,中天新闻-每日必看
+http://192.168.0.114:6789/youtube.php?id=PLQWMqkNuwweK2NUFEex3Jked5lBWcUIJc
